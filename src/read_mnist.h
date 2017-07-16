@@ -1,3 +1,9 @@
+/* Little C header to read the MNIST dataset.
+ *
+ * Author: Konstantin Luebeck (University of Tuebingen, Chair for Embedded Systems)
+ */
+
+
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>

@@ -1,3 +1,8 @@
+/* Example program on how to use the functions in read_mnist.h 
+ * 
+ * Author: Konstantin Luebeck (University of Tuebingen, Chair for Embedded Systems)
+ */
+
 #include "read_mnist.h"
 
 int main(int argc, char** argv) {
